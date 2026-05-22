@@ -66,19 +66,9 @@ Smart Scheduler는 사용자 친화적인 레이아웃과 부드러운 애니메
 * [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) 이상 설치
 
 ### 설치 및 빌드 방법
-1. **저장소 복제 및 폴더 이동**
-   ```bash
-   git clone https://github.com/yourusername/SmartScheduler.git
-   cd SmartScheduler
-   ```
-2. **프로젝트 빌드**
-   ```bash
-   dotnet build SmartScheduler/SmartScheduler.csproj
-   ```
-3. **애플리케이션 실행**
-   ```bash
-   dotnet run --project SmartScheduler/SmartScheduler.csproj
-   ```
+1. **Google AI Studio 에서 API KEY 발급**
+
+2. **SmartScheduler.exe 파일 실행**
 
 ---
 
